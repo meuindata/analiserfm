@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="capa.png" alt="Capa do Projeto" width="700"/>
+</p>
+
 # Segmentação de Clientes por RFM
 
 ## Contexto
