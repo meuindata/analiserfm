@@ -3,7 +3,9 @@
 </p>
 
 # Segmentação de Clientes por RFM
-### ABRIL/2025
+### Abril/2025
+
+### Equipe: Mariah Lisboa
 
 ## Contexto
 
