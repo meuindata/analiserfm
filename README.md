@@ -69,5 +69,6 @@ melhorando o relacionamento e potencializando o retorno sobre campanhas.
   - 📘 [Relatório Documentado (Notion)](https://www.notion.so/Segmenta-o-RFM-2247ef1bfdb78011af2ec630e034de8b?source=copy_link)
   - 📊 [Dashboard Interativo (Looker Studio)](https://lookerstudio.google.com/reporting/c47af00f-3e3a-4816-b2b4-101a918f9ba5)
   - 🎞️ [Vídeo-Apresentação (Loom)](https://www.loom.com/share/eea7f2834d8b4c339dfd27cf76b4df2e?sid=41ea5cfa-d685-4451-92e4-5bfe6e01b15e)
+  - 🗂️ [Link para o Sheets (Google Sheets)](https://docs.google.com/spreadsheets/d/1iYs8psxd5xN4FjWl0GQGjNNgHb10_m10Z-5Iez0SpI8/edit?usp=sharing)
 
   
